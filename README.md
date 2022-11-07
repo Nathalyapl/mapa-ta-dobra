@@ -8,7 +8,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 ## Live links (replace with your own)
 - Leaflet Map https://nathalyapl.github.io/mapa-ta-dobra/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1mqpPN7IRFzFSa3CLgLrv_mLoInzVah3vjtgwgB6x8s4/edit#gid=0
+- Google Sheets template https://docs.google.com/spreadsheets/d/1mqpPN7IRFzFSa3CLgLrv_mLoInzVah3vjtgwgB6x8s4/edit?usp=sharing
 
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
